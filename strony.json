@@ -1,0 +1,27 @@
+{
+  "o-mnie": {
+    "tytul": "O mnie",
+    "wstep": "Jestem kubun1a",
+    "tresc": [
+      "Hej jestem kubun1a",
+      "To na tyle"
+    ]
+  },
+  "wyksztalcenie": {
+    "tytul": "Wykształcenie",
+    "wstep": "Tytułem wstępu chciałbym się pochwalić moim portfoliem wiedzy które zdobyłem w ciągu ostatnich 12 lat nauki",
+    "tresc": [
+      "wyznaczyć pochodną funkcji",
+      "obliczyć deltę",
+      "brak umiejętności przetrwania"
+    ]
+  },
+  "kontakt": {
+    "tytul": "Kontakt",
+    "wstep": "Napisz po przydatne umiejętności",
+    "tresc": [
+      "E-mail: kontakt@example.com",
+      "Telefon: 123 456 789"
+    ]
+  }
+}

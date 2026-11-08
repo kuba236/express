@@ -1,0 +1,15 @@
+{
+  "name": "zadania-express",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cztery proste zadania wykonane za pomocą Express",
+  "scripts": {
+    "zadanie1": "node zadanie1.js",
+    "zadanie2": "node zadanie2.js",
+    "zadanie3": "node zadanie3.js",
+    "zadanie4": "node zadanie4.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "owoce": [
+    { "nazwa": "Jabłko", "cena": 3.5 },
+    { "nazwa": "Banan", "cena": 6.2 },
+    { "nazwa": "Pomarańcza", "cena": 7.0 }
+  ],
+  "warzywa": [
+    { "nazwa": "Marchew", "cena": 4.0 },
+    { "nazwa": "Pomidor", "cena": 9.5 },
+    { "nazwa": "Ogórek", "cena": 7.8 }
+  ]
+}
